@@ -7,14 +7,17 @@ created: YYYY-MM-DD
 version: 1.0.0
 ---
 
-### Summarize
+## Summarize
 Summarize what this standard use for, when to use and by whom.
 
-### Specification
+## Specification
 List of fields and meaning.
 
-### Exception case
+## Example
+Request and Response example
+
+## Exception case
 List all the unsupported cases.
 
-### FAQ
+## FAQ
 
