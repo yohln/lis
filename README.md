@@ -8,5 +8,5 @@ Lightnet Interface Standard (LIS) describe standards for the Lightnet interface,
 
 | Status | Details |
 | ------ | ------ |
-| Draft | an LIS that is undergoing rapid iteration and changes. |
+| WIP | an LIS that is undergoing rapid iteration and changes. |
 | Final | an LIS that has been final release. |
